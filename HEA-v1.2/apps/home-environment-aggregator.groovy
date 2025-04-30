@@ -1,0 +1,1 @@
+// Final v1.2 Home Environment Aggregator app code with Virtual Devices (reinsert full code here)
