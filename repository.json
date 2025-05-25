@@ -1,0 +1,14 @@
+{
+  "author": "Jeffrey Zimmerman",
+  "gitHubUrl": "https://github.com/JeffreyZimms/Home-Environment-Aggregator",
+  "payPalUrl": "",
+  "packages": [
+    {
+      "name": "Home Environment Aggregator and Logic",
+      "category": "Convenience",
+      "description": "Aggregates temperature, humidity, and other sensor data across rooms, calculates floor averages, and provides environmental logic. It also monitors specific areas for humidity spikes and controls an exhaust fan to normalize humidity within tolerance.",
+      "tags": ["Sensors", "Environment", "Humidity Control"],
+      "location": "https://raw.githubusercontent.com/JeffreyZimms/Home-Environment-Aggregator/main/packageManifest.json"
+    }
+  ]
+}
