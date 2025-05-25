@@ -1,0 +1,21 @@
+{
+  "packageName": "Home Environment Aggregator and Logic",
+  "minimumHEVersion": "2.1.9",
+  "author": "Jeffrey Zimmerman",
+  "version": "1.0.0",
+  "dateReleased": "2025-05-25",
+  "licenseFile": "",
+  "releaseNotes": "Initial release. Aggregates temperature, humidity, and lux data. Calculates room, floor, and whole-home averages. Detects humidity spikes and controls exhaust fan. Supports Home Assistant integration for visualization.",
+  "apps": [
+    {
+      "id": "67d9cc01-a5cb-453c-832a-e78c5a6b978b",
+      "name": "Home Environment Aggregator and Logic",
+      "namespace": "Zimms",
+      "location": "https://raw.githubusercontent.com/JeffreyZimms/Home-Environment-Aggregator/main/Home_Environment_Aggregator_and_Logic.groovy",
+      "required": true,
+      "oauth": false
+    }
+  ],
+  "drivers": [],
+  "files": []
+}
